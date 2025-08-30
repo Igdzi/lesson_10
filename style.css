@@ -93,7 +93,6 @@ a {
   clip-path: inset(100%);
 }
 
-
 .header {
   padding-top: 5rem;
   padding-bottom: 8.8rem;
@@ -119,11 +118,6 @@ a {
   color: var(--color-background-accent);
 }
 
-
-
-
-
-
 .navbar__btn {
   display: none;
   flex-direction: column;
@@ -141,10 +135,6 @@ a {
   border-radius: 2px;
   transition: all 0.3s ease;
 }
-
-
-
-
 
 .hero {
   display: flex;
@@ -208,11 +198,10 @@ a {
   color: var(--color-text-light);
 }
 
-
 .video {
   background-color: var(--color-background-secondary);
   margin-top: -3.1rem;
-  padding-bottom: 6.2px;
+  padding-bottom: 6rem;
 }
 
 .video__frame {
